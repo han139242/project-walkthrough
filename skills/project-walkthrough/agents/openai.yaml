@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目开发复盘"
+  short_description: "从 Git 和项目记录追溯开发取舍，生成能自学和讲解的项目复盘"
+  default_prompt: "用 $project-walkthrough 讲清当前项目是怎么一步步做出来的，并给我一份可复述的讲义。"
